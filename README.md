@@ -1,5 +1,5 @@
 # OpenGpgKey
-The opengpg public key used by the github accounts rebbeli/Second Primus
+The opengpg public keys used by the github accounts rebbeli/Second Primus
 
 # Active Keys
 
